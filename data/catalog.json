@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cmp-001",
+    "nombre": "Computador Empresarial A",
+    "categoria": "Computadores",
+    "precio": "2.450.000",
+    "descripcion": "Core i5, 16GB RAM, 512GB SSD.",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACElEQVR4nGNgYAAAAAIAAQEJvDMAAAAASUVORK5CYII=",
+    "imgs": [
+      "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACElEQVR4nGNgYAAAAAIAAQEJvDMAAAAASUVORK5CYII=",
+      "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACElEQVR4nGNgYAAAAAIAAQEJvDMAAAAASUVORK5CYII="
+    ],
+    "tags": [
+      "i5",
+      "16GB",
+      "SSD"
+    ],
+    "estado": "disponible"
+  },
+  {
+    "id": "cmp-002",
+    "nombre": "Computador Gamer X",
+    "categoria": "Computadores",
+    "precio": "5.990.000",
+    "descripcion": "Ryzen 7, RTX 4070, 32GB RAM.",
+    "imgs": [
+      "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACElEQVR4nGNgYAAAAAIAAQEJvDMAAAAASUVORK5CYII=",
+      "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACElEQVR4nGNgYAAAAAIAAQEJvDMAAAAASUVORK5CYII=",
+      "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACElEQVR4nGNgYAAAAAIAAQEJvDMAAAAASUVORK5CYII="
+    ],
+    "tags": [
+      "RTX4070",
+      "32GB"
+    ],
+    "estado": "disponible"
+  }
+]
